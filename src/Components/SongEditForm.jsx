@@ -46,7 +46,7 @@ function SongEditForm() {
     }
   };
 
-  // On page load, fill in the form with the color data.
+  // On page load
 
   const handleOnSubmit = (event) => {
     event.preventDefault();
